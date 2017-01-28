@@ -1,2 +1,2 @@
 # github-profile-finder
-SImple Github Profile Finder
+Simple Github Profile Finder
